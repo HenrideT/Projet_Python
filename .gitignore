@@ -2,4 +2,4 @@
 *.csv
 INSEE.*
 .DS_Store
-.xlsx
+*.xlsx
