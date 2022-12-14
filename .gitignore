@@ -1,5 +1,4 @@
 .ipynb_checkpoints/
 INSEE/*
 .DS_Store
-*.xlsx
-*.xls
+*.csv
