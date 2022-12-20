@@ -1,6 +1,8 @@
 # Projet de Python pour la data-science (OMI2F2) : Prédiction de la réélection des maires français
 **Professeur**: M. Lino Galiana
+
 **Chargée de TD**: Mme. Nina Vesseron
+
 **Membres du groupe**: Kilian Andru, Henri de Tricornot, Xavier Lacour
 
 # Ordre des Notebooks
