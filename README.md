@@ -60,7 +60,15 @@
 
 # Résultats principaux 
 
-<p style='text-align: justify;'> Nous avons essayé de mettre en place plusieurs modèles afin de prévoir la réélection des divers maires : régressions dites lasso, régressions logistiques, k plus proches voisins, SVM ou encore un réseau de neurones. Aucun n’a été réellement efficace : bien qu’ayant une accuracy de l’ordre de 85%, les résultats de nos modèles étaient soit similaires soit inférieures au modèle trivial donnant toujours le maire gagnant. On en conclut que dans le contexte d’analyse que nous nous sommes donné, les données socio-économiques d’une ville ne sont pas suffisantes pour prédire si un maire va être réélu. 
+<p style='text-align: justify;'> Une des contributions de ce travail a été d'établir la représentation géographique des certaines données socio-économiques, dans la partie de statistiques descriptives. Le nombre de commune et la densité de population peuvent être ainsi illustrés.
+![Nb_communes_par_depart](files:Nb_communes_par_depart.jpg)
+![Population_19](Population_19.jpg)
+
+<p style='text-align: justify;'> On peut ainsi observer comment les maires se sont représentés, avec plus ou moins de succès.
+![reelection](files:reelection.jpg)
+![reelec_tentative](files:reelec_tentative.jpg)
+
+<p style='text-align: justify;'> Dans la partie de modélisation, nous avons essayé de mettre en place plusieurs modèles afin de prévoir la réélection des divers maires : régressions dites lasso, régressions logistiques, k plus proches voisins, SVM ou encore un réseau de neurones. Aucun n’a été réellement efficace : bien qu’ayant une accuracy de l’ordre de 85%, les résultats de nos modèles étaient soit similaires soit inférieures au modèle trivial donnant toujours le maire gagnant. On en conclut que dans le contexte d’analyse que nous nous sommes donné, les données socio-économiques d’une ville ne sont pas suffisantes pour prédire si un maire va être réélu. 
 
 <p style='text-align: justify;'> Ce résultat pouvait être anticipé, sachant qu’on a observé très peu de corrélations significatives entre les variables explicatives et l’élection des maires lors des statistiques descriptives. Cela est également conforme à l’analyse de la conjoncture menée plus haut. Du fait de celle-ci, nos données socio-économiques expliquent sans doute moins bien que les autres années les résultats des élections: la même analyse sur les données du scrutin de 2026 pourrait peut-être mieux fonctionner, si les conditions de l’élections sont plus stables. 
 
