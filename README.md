@@ -30,20 +30,22 @@
 
 <p style='text-align: justify;'> Dans ce contexte de crise sanitaire, mais aussi en raison d'un désintérêt croissant pour la politique selon de nombreux analystes, ces élections sont marquées par un taux d’abstention record (55% au premier tour et 58% au second) alors que ces scrutins locaux mobilisaient historiquement les électeurs. Face à ces incertitudes, on peut donc s’attendre à ce que, plus que d’habitude, les maires soient plus susceptibles d’être réélus que les autres années (forte « prime aux sortants », déjà plus forte aux municipales qu’aux autres élections, serait encore accentuée).
 
-# Fonction des maires [Tiré de](https://fr.wikipedia.org/wiki/Maire_(France)#Fonctions_et_responsabilités)
+# Fonction des maires [Source](https://fr.wikipedia.org/wiki/Maire_(France)#Fonctions_et_responsabilités)
 
 **Mécanisme d’élection des maires**: 
 <p style='text-align: justify;'> Pour les communes de moins de 1 000 habitants, il s’agit d’un scrutin majoritaire, plurinominal, à deux tours. Pour les communes de plus de 1 000 habitants, le mode de scrutin combine les règles du scrutin majoritaire à deux tours et celles du scrutin proportionnel.
 
 <p style='text-align: justify;'> Le maire est à la fois agent de l'État et agent de la commune en tant que collectivité territoriale. Les pouvoirs et devoirs du maire sont notamment définis par le Code général des collectivités territoriales (CGCT).
 
-**Comme agent de l’état**: sous l'autorité du préfet, le maire remplit des fonctions administratives où il agit par pouvoir lié, notamment:
+**Comme agent de l’état**: 
+<p style='text-align: justify;'> Sous l'autorité du préfet, le maire remplit des fonctions administratives où il agit par pouvoir lié, notamment:
 
 - La publication des lois et règlements
 
 - Le maire dispose également d'une fonction judiciaire civile, qui lui confère le droit de recevoir des actes administratifs qui concernent uniquement son territoire, et ont le même statut que les actes notariés.
 
-**Comme agent de la commune**: dans ce domaine le maire dispose de pouvoirs propres, avec une large marge d'autonomie et d'appréciation d'application de la loi et de la réglementation notamment dans les matières suivantes:
+**Comme agent de la commune**: 
+<p style='text-align: justify;'> Dans ce domaine le maire dispose de pouvoirs propres, avec une large marge d'autonomie et d'appréciation d'application de la loi et de la réglementation notamment dans les matières suivantes:
 
 - Le maire est le chef de l'administration communale. Il est le supérieur hiérarchique des agents de la commune et dispose d'un pouvoir d'organisation des services
 
