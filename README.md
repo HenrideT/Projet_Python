@@ -30,7 +30,7 @@
 
 <p style='text-align: justify;'> Dans ce contexte de crise sanitaire, mais aussi en raison d'un désintérêt croissant pour la politique selon de nombreux analystes, ces élections sont marquées par un taux d’abstention record (55% au premier tour et 58% au second) alors que ces scrutins locaux mobilisaient historiquement les électeurs. Face à ces incertitudes, on peut donc s’attendre à ce que, plus que d’habitude, les maires soient plus susceptibles d’être réélus que les autres années (forte « prime aux sortants », déjà plus forte aux municipales qu’aux autres élections, serait encore accentuée).
 
-# Fonction des maires [Source](https://fr.wikipedia.org/wiki/Maire_(France)#Fonctions_et_responsabilités)
+# Fonction des maires [(Source)](https://fr.wikipedia.org/wiki/Maire_(France)#Fonctions_et_responsabilités)
 
 **Mécanisme d’élection des maires**: 
 <p style='text-align: justify;'> Pour les communes de moins de 1 000 habitants, il s’agit d’un scrutin majoritaire, plurinominal, à deux tours. Pour les communes de plus de 1 000 habitants, le mode de scrutin combine les règles du scrutin majoritaire à deux tours et celles du scrutin proportionnel.
@@ -55,6 +55,7 @@
 
 - Le maire est chargé de l'exécution des décisions du conseil municipal, et agit sous le contrôle de ce dernier. Ses missions consistent notamment à représenter la commune en justice, passer les marchés, signer des contrats, exécuter le budget, gérer le patrimoine.
 
+**Liens avec les élections**: 
 <p style='text-align: justify;'> On peut voir que le maire dispose de nombreux pouvoirs, qui peuvent influencer les données socio-économiques des communes. On peut donc s’attendre à ce que les performances des communes, mesurées par des indicateurs, reflètent le travail du maire; et que les électeurs le prennent en compte dans leurs choix.
 
 # Résultats principaux 
